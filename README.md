@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivanshMathur07
 - 👀 I’m interested in Web Tech & Sports
-- 🌱 I’m currently learning Gatsby & Svelte
+- 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on good challenging projects
 - 📫 How to reach me (https://www.linkedin.com/in/shivanshmathurr)
 
